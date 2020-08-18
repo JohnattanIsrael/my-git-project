@@ -6,4 +6,6 @@
 
 >another codechange
 
->made changes for git pull demo
+>made changes for git pulldemo
+
+>made more changes for git pull/fetch
